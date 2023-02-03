@@ -18,4 +18,25 @@ seu uso é muito mais dinâmico e intuitivo.
 
 ### O que é [GitHub](github.com)?
 Trata-se de uma plataforma para desenvolvimento versionado de software de foma 
-colaborativa que oferece integração total com o Git, espaço de armazenaento
+colaborativa que oferece integração total com o Git, espaço de armazenaento e soluções de 
+comunicação e gestão de projeto para equipes de desenvolvimento (não estou sendo 
+patrocinado, é isso mesmo). 
+
+Atualmente o GutHub pertence a Mycrosoft e é a plataforma do tipo mais utilizada no mundo
+com mais de 100 milhões de desenvolvedores, quatro milhões de organizações registradas e 
+mais de 300 milhões de repositórios. 
+
+Uma organização no GitHub, nada mais é que um perfil corporativo que pode englobar 
+perfís pessoais colaboradores. Os softwares criados nestes ambientes são entendidos 
+como pertencentes à organização com a autoria compartilhada pelos desenvolvedores 
+envolvidos.
+
+Você pode visitar a organização GESESC visitando este [LINK](https://github.com/GESESC).
+Note que atualmente a organização possui 07 membros (aba *People*), um time de 
+desenvolvimento ativo (aba *Teams*), dois projetos em desenvolvimento 
+(aba *Projects*) e sete repositórios (aba *Repositories*). 
+
+**Instrução:** *Navegue por cada um desses repositórios para se familiarizar com
+o ambiente.*
+
+Um repositório é uma unidade de armazenamento de arquivos que compõe um projeto 
