@@ -45,10 +45,15 @@ determinado projeto de software, além do histórico de versões de cada um de
 seus compontens.
 
 Um membro de organização ou time nada mais é que um perfil pessoal de um 
-usuário do tipo pessoa física ou jurídica.
+usuário do tipo pessoa física ou jurídica. Você pode visitar meu perfil 
+pessoal em [AQUI](https://github.com/ProfLeao
 
-**Instrução:** *Caso ainda não possua, crie seu perfil pessoal no GITHUB para 
-você armazenar sua própria versão (**fork**) deste curso.*
+**Instruções:** 
+1. Caso ainda não possua, crie seu perfil pessoal no GITHUB para 
+você armazenar sua própria versão (*fork*) deste curso.
+2. Se possível, volte ao meu perfil pessoal e me siga meu perfil pessoal e o 
+GESESC no GitHub, isto ajudará bastante e nos credenciará a atingirmos as 
+credenciais para receber apoio financeiro para nossos projetos. 
 
 **Instruções:** 
 Nosso curso estará todo disponiibilizado no repositório  
