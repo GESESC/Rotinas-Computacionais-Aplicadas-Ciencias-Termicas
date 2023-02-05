@@ -46,7 +46,7 @@ seus compontens.
 
 Um membro de organização ou time nada mais é que um perfil pessoal de um 
 usuário do tipo pessoa física ou jurídica. Você pode visitar meu perfil 
-pessoal em [AQUI](https://github.com/ProfLeao
+pessoal em (AQUI)[https://github.com/ProfLeao].
 
 **Instruções:** 
 1. Caso ainda não possua, crie seu perfil pessoal no GITHUB para 
@@ -55,5 +55,36 @@ você armazenar sua própria versão (*fork*) deste curso.
 GESESC no GitHub, isto ajudará bastante e nos credenciará a atingirmos as 
 credenciais para receber apoio financeiro para nossos projetos. 
 
-**Instruções:** 
-Nosso curso estará todo disponiibilizado no repositório  
+#### Primeiro *fork* e *clone*
+Nosso curso estará todo disponiibilizado no repositório (Rotinas Computacionais
+Aplicada às Ciências Térmicas)
+[https://github.com/GESESC/Rotinas-Computacionais-Aplicadas-Ciencias-Termicas]
+pertencente ao GESESC. 
+
+Para que tenha sua própria versão do curso, você deve possuir uma cópia pessoal
+do repositório em seu perfil pessoal. A ação de criar uma cópia de um 
+reposítório se chma *fork*. 
+
+**Instrução:**
+Após criar seu perfil crie um *fork* do repositório do curso em seu perfil.
+Localize o botão na parte superior direita do repositório entre os botões 
+*Watch* e *Star*.
+
+Cada repositório do GitHub possui um endereço único na rede mundial de 
+computadores. Este endereço é utilizado, dentre outras coisas, para fazer 
+cópias locais (no seu computador pessoal) do repositório, em uma ação 
+denominada clonagem. 
+
+Os clones de repositório são feitos com a ferramenta Git instalada no seu 
+computador.
+
+**Instruções:**
+1. Crie uma pasta para o curso no computador em que estiver trabalhando
+(lembre-se de salvá-la na nuvem antes do fim do encontro), localize o 
+endereço da basta e o copie. 
+2. Abra o terminal do Git e digite `cd ` e então cole o endeço, você acessará 
+com o terminal do Git o local onde irá trabalhar. 
+3. Faça o clone do seu *fork* no diretório que criou, para isso copie o endereço
+`https` do seu repositório clicando no botão verde `<> Code` e copiando 
+o endereço que lá aparecer. Então digite no terminal: `git clone <endereço>`.
+
