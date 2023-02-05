@@ -39,4 +39,16 @@ desenvolvimento ativo (aba *Teams*), dois projetos em desenvolvimento
 **Instrução:** *Navegue por cada um desses repositórios para se familiarizar com
 o ambiente.*
 
-Um repositório é uma unidade de armazenamento de arquivos que compõe um projeto 
+Um repositório é uma unidade de armazenamento de arquivos que compõe um projeto,
+na prática trata-se de um diretório que contém todos os arquivos de um
+determinado projeto de software, além do histórico de versões de cada um de 
+seus compontens.
+
+Um membro de organização ou time nada mais é que um perfil pessoal de um 
+usuário do tipo pessoa física ou jurídica.
+
+**Instrução:** *Caso ainda não possua, crie seu perfil pessoal no GITHUB para 
+você armazenar sua própria versão (**fork**) deste curso.*
+
+**Instruções:** 
+Nosso curso estará todo disponiibilizado no repositório  
