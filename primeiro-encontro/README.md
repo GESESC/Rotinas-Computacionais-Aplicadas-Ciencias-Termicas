@@ -88,3 +88,14 @@ com o terminal do Git o local onde irá trabalhar.
 `https` do seu repositório clicando no botão verde `<> Code` e copiando 
 o endereço que lá aparecer. Então digite no terminal: `git clone <endereço>`.
 
+Agora seu repositório na nuvem está clonado localmente e você pode comear a
+fazer edições. Sempre que desejar baixar conteúdo remoto para o repositório 
+local use o comando `git pull`. 
+
+#### Adicionando ou modificando arquivos
+Quando um novo arquivo é adicionado ou modificado no repositório local, diz-se 
+que uma nova versão do repositório foi criada, para que o Git rastreie as 
+modificações e crie um novo *snapshot* é necessário adicioná-las à lista de 
+alterações controladas, para isso se usa `git add <nomo do arquivo>`.
+Opcionalmente, você pode adicionar todas as modificações realizadas no 
+repositório desde a última execução do comando fazendo `git add .`.
