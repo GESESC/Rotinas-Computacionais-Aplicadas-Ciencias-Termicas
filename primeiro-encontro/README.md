@@ -99,3 +99,24 @@ modificações e crie um novo *snapshot* é necessário adicioná-las à lista d
 alterações controladas, para isso se usa `git add <nomo do arquivo>`.
 Opcionalmente, você pode adicionar todas as modificações realizadas no 
 repositório desde a última execução do comando fazendo `git add .`.
+
+# Jupyter Notebooks
+
+[Jupyter](https://jupyter.org/) Notebooks são arquivos de extensão `.ipynb` capazes de lidar com textos, 
+multimídia e códigos de forma simultânea. Eles são compostos por células 
+(unidades editáveis do documento) que podem ter três formatos distintos:
+
+1. *Code* - para executar códigos de uma determinada linguagem de programação;
+2. *Markdown* - para inserção de texto via linguagem 
+[Markdown](https://pt.wikipedia.org/wiki/Markdown);
+3. *Raw* - para texto puro.
+
+Atualmete existem várias ferramentas capazes de editar esses arquivos, 
+no curso utilizaremos o [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/).
+
+**Instruções:**
+1. Localize o *Anaconda Prompt* no menu iniciar.
+2. Após aberto, digite `cd <endereço do diretorio local de trabalho>`. 
+3. Em seguida, execute o JupyterLab com o comando `jupyter-lab`.
+4. Após aberto, na barra de navegação lateral abra o arquivo 
+   `primeiro_notebook.ipynb`.
